@@ -30,6 +30,18 @@ suporte_whatsapp_analysis/
 ## Modelo de Dados
 ![Modelo Relacional](imagens/modelo_relacional.png)
 
+## Dashboard
+
+O dashboard foi construído no Power BI seguindo uma estrutura de storytelling em 3 atos:
+
+- **Ato 1 — Visão geral:** KPIs principais (total de tickets, taxa de resolução, CSAT médio, tempo médio de atendimento e backlog)
+- **Ato 2 — Onde está o problema:** volume por categoria, tendência mensal de tickets e CSAT, e status dos atendimentos
+- **Ato 3 — Quem resolve e quem não resolve:** ranking de desempenho por agente e CSAT por categoria
+
+O dashboard conta com um painel lateral de filtros interativos (período, agente, categoria e status).
+
+![Dashboard Power BI](imagens/Apresentacao_Suporte_WhatsApp_BI.png)
+
 ## Ferramentas
 
 | Ferramenta | Uso |
